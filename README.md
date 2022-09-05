@@ -10,9 +10,9 @@ Louise’s play Fever came close to its fundraising goal. Now, she wants to know
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Parent Category Outcomes](/Chart1.png)
+![Parent Category Outcomes](/Chart1.PNG)
 
-![Play Kickstarters by Month](/Chart2.png)
+![Play Kickstarters by Month](/Chart2.PNG)
 
 The most Successful Kickstarters are Plays and the best time to launch the Kickstarter would be May.
 
