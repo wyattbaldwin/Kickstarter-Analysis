@@ -24,10 +24,10 @@ Since there is a wide variety of kickstarter categories it might be challenging 
 
 ## Results
 
-The most Successful Kickstarters are Plays and the best time to launch the Kickstarter would be May.
+- The most Successful Kickstarters are Plays and the best time to launch the Kickstarter would be May.
 
-Kickstarters with a Goal less than 14,999 and between 35000 and 44999 are the only Goals with over 50% success.
+- Kickstarters with a Goal less than 14,999 and between 35000 and 44999 are the only Goals with over 50% success.
 
-- What are some limitations of this dataset?
+- Some limitations in the dataset are that we have not seperated the data into groups by year to see if any patterns can emerge.
 
-- What are some other possible tables and/or graphs that we could create?
+- We could have used some other graphs like a bar chart for each month so we can see at a glance what percentage were successful, canceled or failed by year
