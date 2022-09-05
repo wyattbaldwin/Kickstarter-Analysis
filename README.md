@@ -1,8 +1,35 @@
-# An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends
+# Kickstarting with Excel
 
-![Chart1](path/to/Chart1.png)
+## Overview of Project
 
-![Chart2](path/to/Chart2.png)
+### Purpose
 
-The most successful kickstarters are Plays and the best time to launch the Kickstarter would be May.
+Louise’s play Fever came close to its fundraising goal. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals.
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+![Parent Category Outcomes](path/to/Chart1.png)
+
+![Play Kickstarters by Month](path/to/Chart2.png)
+
+The most Successful Kickstarters are Plays and the best time to launch the Kickstarter would be May.
+
+### Analysis of Outcomes Based on Goals
+
+![Outcomes vs Goals](path/to/Outcomes_vs_Goals.PNG)
+
+### Challenges and Difficulties Encountered
+
+Since there is a wide variety of kickstarter categories it might be challenging to sort through all the data to find specific information that relates to the kickstarter that Louise is interested in running.
+
+## Results
+
+The most Successful Kickstarters are Plays and the best time to launch the Kickstarter would be May.
+
+Kickstarters with a Goal less than 14,999 and between 35000 and 44999 are the only Goals with over 50% success.
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
